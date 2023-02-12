@@ -12,6 +12,7 @@ trainSchedulesの中のデータは、timeを24時間表示で、typeをtrainTyp
       "快速",
       "特別快速"
    ],
+   "isHoliday":true,
    "trainSchedules":[
       {
          "time":"05:13",
