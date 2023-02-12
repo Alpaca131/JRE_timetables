@@ -7,6 +7,8 @@ JR東日本の時刻表データです。
 trainSchedulesの中のデータは、timeを24時間表示で、typeをtrainTypesのindexで表して下さい。
 ```json
 {
+   "stationName": サンプル駅,
+   "lineName": サンプル線,
    "trainTypes":[
       "普通",
       "快速",
