@@ -7,36 +7,45 @@ JR東日本の時刻表データです。
 trainSchedulesの中のデータは、timeを24時間表示で、typeとdstをtrainTypesとtrainDestinationsのindexで表して下さい。
 ```json
 {
-   "stationName": "サンプル駅",
-   "lineName": "サンプル線",
+   "stationName":"サンプル駅",
+   "lineName":"サンプル線",
    "trainTypes":[
       "普通",
       "快速",
       "特別快速"
    ],
-   "trainDestinations": ["サンプル4駅", "サンプル5駅"],
+   "trainDestinations":[
+      "サンプル4駅",
+      "サンプル5駅"
+   ],
    "isHoliday":true,
-   "trainSchedules":[
-      {
-         "time":"05:13",
-         "type":0,
-         "dst": 1
-      },
-      {
-         "time":"06:00",
-         "type":1,
-         "dst": 0
-      },
-      {
-         "time":"06:30",
-         "type":2,
-         "dst": 1
-      },
-      {
-         "time":"15:00",
-         "type":1,
-         "dst": 0
-      }
-   ]
+   "trainSchedules":{
+      "5":[
+         {
+            "minute":13,
+            "type":0,
+            "dst":1
+         }
+      ],
+      "6":[
+         {
+            "minute":5,
+            "type":1,
+            "dst":0
+         },
+         {
+            "minute":30,
+            "type":2,
+            "dst":1
+         }
+      ],
+      "15":[
+         {
+            "time":"15:00",
+            "type":1,
+            "dst":0
+         }
+      ]
+   }
 }
 ```
