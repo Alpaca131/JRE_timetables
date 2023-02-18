@@ -1,0 +1,211 @@
+{
+    "stationName": "東戸塚",
+    "lineName": "湘南新宿ライン 南行",
+    "trainTypes": [
+        "特急 スペーシアきぬがわ12号",
+        "特急 スペーシアきぬがわ6号",
+        "特急 きぬがわ4号",
+        "特急 スペーシアきぬがわ2号",
+        "特急 きぬがわ12号",
+        "特急 踊り子1号",
+        "特急 日光8号",
+        "特別快速",
+        "快速",
+        "特急 踊り子5号",
+        "特急 サフィール踊り子5号",
+        "普通"
+    ],
+    "trainDestinations": [
+        "鎌倉"
+    ],
+    "isHoliday": true,
+    "trainSchedules": {
+        "8": [
+            {
+                "minute": 0,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 30,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "9": [
+            {
+                "minute": 26,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "10": [
+            {
+                "minute": 31,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "11": [
+            {
+                "minute": 28,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "12": [
+            {
+                "minute": 27,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "13": [
+            {
+                "minute": 27,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "14": [
+            {
+                "minute": 28,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "15": [
+            {
+                "minute": 27,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 59,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "16": [
+            {
+                "minute": 27,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 57,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "17": [
+            {
+                "minute": 29,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 59,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "18": [
+            {
+                "minute": 30,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "19": [
+            {
+                "minute": 3,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 32,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "20": [
+            {
+                "minute": 3,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "21": [
+            {
+                "minute": 3,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "22": [
+            {
+                "minute": 1,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 27,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "23": [
+            {
+                "minute": 6,
+                "type": 11,
+                "dst": 0
+            }
+        ]
+    }
+}

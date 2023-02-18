@@ -1,0 +1,413 @@
+{
+    "stationName": "池袋",
+    "lineName": "湘南新宿ライン 南行",
+    "trainTypes": [
+        "特急 スペーシアきぬがわ12号",
+        "特急 スペーシアきぬがわ6号",
+        "特急 きぬがわ4号",
+        "特急 スペーシアきぬがわ2号",
+        "特急 きぬがわ12号",
+        "特急 踊り子1号",
+        "特急 日光8号",
+        "特別快速",
+        "快速",
+        "特急 踊り子5号",
+        "特急 サフィール踊り子5号",
+        "普通"
+    ],
+    "trainDestinations": [
+        "鎌倉"
+    ],
+    "isHoliday": true,
+    "trainSchedules": {
+        "6": [
+            {
+                "minute": 34,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "7": [
+            {
+                "minute": 10,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 30,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 43,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "8": [
+            {
+                "minute": 7,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 13,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 39,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 46,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "9": [
+            {
+                "minute": 4,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 14,
+                "type": 9,
+                "dst": 0
+            },
+            {
+                "minute": 26,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 43,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            },
+            {
+                "minute": 59,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "10": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 13,
+                "type": 3,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 39,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "11": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 39,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 54,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "12": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 38,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 42,
+                "type": 2,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "13": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 38,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "14": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 39,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "15": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 39,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "16": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 13,
+                "type": 0,
+                "dst": 0
+            },
+            {
+                "minute": 13,
+                "type": 4,
+                "dst": 0
+            },
+            {
+                "minute": 23,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 38,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 7,
+                "dst": 0
+            }
+        ],
+        "17": [
+            {
+                "minute": 9,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 13,
+                "type": 1,
+                "dst": 0
+            },
+            {
+                "minute": 27,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 42,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 54,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "18": [
+            {
+                "minute": 12,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 24,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 30,
+                "type": 6,
+                "dst": 0
+            },
+            {
+                "minute": 44,
+                "type": 11,
+                "dst": 0
+            }
+        ],
+        "19": [
+            {
+                "minute": 2,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 14,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 25,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 37,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 59,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "20": [
+            {
+                "minute": 11,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 23,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 37,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 59,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "21": [
+            {
+                "minute": 14,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 37,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 53,
+                "type": 8,
+                "dst": 0
+            }
+        ],
+        "22": [
+            {
+                "minute": 19,
+                "type": 11,
+                "dst": 0
+            },
+            {
+                "minute": 35,
+                "type": 8,
+                "dst": 0
+            },
+            {
+                "minute": 52,
+                "type": 8,
+                "dst": 0
+            }
+        ]
+    }
+}
