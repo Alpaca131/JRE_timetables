@@ -1,0 +1,384 @@
+{
+    "stationName": "横浜",
+    "lineName": "湘南新宿ライン 北行",
+    "trainTypes": [
+        "特急 踊り子18号",
+        "特急 日光1号",
+        "特急 スペーシアきぬがわ7号",
+        "特急 きぬがわ5号",
+        "特別快速",
+        "快速",
+        "特急 きぬがわ11号",
+        "普通",
+        "特急 スペーシアきぬがわ3号",
+        "特急 スペーシアきぬがわ11号"
+    ],
+    "trainDestinations": [
+        "池袋",
+        "小山"
+    ],
+    "isHoliday": true,
+    "trainSchedules": {
+        "6": [
+            {
+                "minute": 26,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 48,
+                "type": 7,
+                "dst": 1
+            }
+        ],
+        "7": [
+            {
+                "minute": 5,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 53,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "8": [
+            {
+                "minute": 4,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 14,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 35,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "9": [
+            {
+                "minute": 4,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 18,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 42,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "10": [
+            {
+                "minute": 2,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 10,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 19,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "11": [
+            {
+                "minute": 3,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 16,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "12": [
+            {
+                "minute": 3,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 18,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "13": [
+            {
+                "minute": 3,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 16,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 48,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "14": [
+            {
+                "minute": 3,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 16,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "15": [
+            {
+                "minute": 3,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 16,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 32,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "16": [
+            {
+                "minute": 2,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 16,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 4,
+                "dst": 1
+            }
+        ],
+        "17": [
+            {
+                "minute": 2,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 19,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 34,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 49,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "18": [
+            {
+                "minute": 1,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 17,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 25,
+                "type": 0,
+                "dst": 0
+            },
+            {
+                "minute": 33,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 42,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 51,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "19": [
+            {
+                "minute": 2,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 19,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 34,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 50,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "20": [
+            {
+                "minute": 5,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 17,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 36,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 47,
+                "type": 7,
+                "dst": 1
+            }
+        ],
+        "21": [
+            {
+                "minute": 9,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 25,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 50,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "22": [
+            {
+                "minute": 6,
+                "type": 7,
+                "dst": 1
+            },
+            {
+                "minute": 27,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "23": [
+            {
+                "minute": 0,
+                "type": 5,
+                "dst": 1
+            }
+        ]
+    }
+}

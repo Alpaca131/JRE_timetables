@@ -1,0 +1,222 @@
+{
+    "stationName": "藤沢",
+    "lineName": "湘南新宿ライン 北行",
+    "trainTypes": [
+        "特急 踊り子18号",
+        "特急 日光1号",
+        "特急 スペーシアきぬがわ7号",
+        "特急 きぬがわ5号",
+        "特別快速",
+        "快速",
+        "特急 きぬがわ11号",
+        "普通",
+        "特急 スペーシアきぬがわ3号",
+        "特急 スペーシアきぬがわ11号"
+    ],
+    "trainDestinations": [
+        "池袋",
+        "小山"
+    ],
+    "isHoliday": true,
+    "trainSchedules": {
+        "6": [
+            {
+                "minute": 5,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 41,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "7": [
+            {
+                "minute": 33,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 51,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "8": [
+            {
+                "minute": 44,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "9": [
+            {
+                "minute": 21,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "10": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "11": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 58,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "12": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "13": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "14": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "15": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "16": [
+            {
+                "minute": 29,
+                "type": 4,
+                "dst": 1
+            },
+            {
+                "minute": 58,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "17": [
+            {
+                "minute": 29,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 57,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "18": [
+            {
+                "minute": 18,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 31,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 59,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "19": [
+            {
+                "minute": 26,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 44,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "20": [
+            {
+                "minute": 15,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 46,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "21": [
+            {
+                "minute": 25,
+                "type": 5,
+                "dst": 1
+            }
+        ],
+        "22": [
+            {
+                "minute": 7,
+                "type": 5,
+                "dst": 1
+            },
+            {
+                "minute": 40,
+                "type": 5,
+                "dst": 1
+            }
+        ]
+    }
+}
